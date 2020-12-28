@@ -21,30 +21,3 @@ for s in spans:
 print('The average value of ' + query_city + ' is $' + str(total/count)) 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#print(soup.find(id = 'sortable-results').div.find_all('span', {'class': 'result-price'})[0].text)i
-#x = (soup.find(class = 'zsg-layout-width zsg-layout-top').div.find(class = 'zsg-content-section region-info').section.find(id = 'tt-hv-metric').div)
-
-#print(x.find('h2'))
-
-#print(soup.find('div', {'class' : 'region-info-item'}).find('h2').text)
-#print(soup)
-#print(soup.find('div', attrs = {'class': 'col-md-3 px-1'}).findAll('p')[3].text)
-
-#print(soup.find(id = 'topSection').div.find('class' = 'mop-ratings-wrap__half').div.find_all('a')[0].find('span').text)
-#find('span', attr = {'class', 'mop-ratings-wrap__percentage'}).text)
-
-
